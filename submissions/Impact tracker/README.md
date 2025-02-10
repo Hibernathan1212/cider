@@ -2,11 +2,11 @@
 
 **Description**: An app that allows you to track the things you've been doing that have an impact on the environment so you can be more conscious of your decisions and become more sustainable.
 
-**GitHub URL**: https://github.com/Hibernathan1212/Impact-tracker
+**GitHub URL**: [https://github.com/Hibernathan1212/Impact-tracker](https://github.com/Hibernathan1212/Impact-tracker)
 
 **How did you build this**: I used SwiftUI to create the app. I watched some videos on SwiftUI and Swift which I used to learn the language and different features. I then created my app from my understanding and knowledge of the language
 
-**How many hours did you spend on this**: 14 hours
+**How many hours did you spend on this**: 15 hours
 
 **Did you use wakatime to log your progress?**: Yes
 
